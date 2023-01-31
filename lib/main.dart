@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import 'package:assignment2/data/friend_model.dart';
-import 'package:assignment2/data/friend_repository.dart';
 
 import 'data/friends_repository.dart';
 
